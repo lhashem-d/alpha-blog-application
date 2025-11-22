@@ -19,3 +19,6 @@ Layout/SpaceAfterColon:
 
 Style/StringLiterals:
   Enabled: false
+
+Layout/TrailingEmptyLines:
+  Enabled: false
